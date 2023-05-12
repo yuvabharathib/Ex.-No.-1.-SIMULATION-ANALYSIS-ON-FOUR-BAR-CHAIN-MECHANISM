@@ -54,5 +54,9 @@
 
 ## Output
 
+
+### Name:
+### Register Number: 
+
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
